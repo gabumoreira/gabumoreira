@@ -24,6 +24,9 @@ API exemplo com implementação de Spring com arquitetura hexagonal, cobertura d
 | -- | -- |  -- | -- | -- | -- |
 | [autores](https://github.com/gabazar/gabazar-autores) | [![Build Status](https://app.travis-ci.com/gabazar/gabazar-autores.svg?branch=main)](https://app.travis-ci.com/gabazar/gabazar-autores) | [![codecov](https://codecov.io/gh/gabazar/gabazar-autores/branch/main/graph/badge.svg?token=JOIUBJXYJ9)](https://codecov.io/gh/gabazar/gabazar-autores) | [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=gabazar_gabazar-autores&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=gabazar_gabazar-autores) | [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=gabazar_gabazar-autores&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=gabazar_gabazar-autores) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=gabazar_gabazar-autores&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=gabazar_gabazar-autores) |
 
+## Social
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogmrodrigues/)
+
 
 <!--
 **gabumoreira/gabumoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
