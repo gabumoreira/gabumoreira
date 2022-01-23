@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando na plataforma de troca de livros [Gabazar](https://github.com/gabazar)
 - 🌱 Aprimorando minhas skills devops na pós-graduação
-- 💬 Talvez eu possa te ajudar com Java, Spring, Kafka & Containers
+- 💬 Talvez eu possa te ajudar com Java, Spring, Kafka, Containers & Arquitetura
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: 
 
