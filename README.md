@@ -57,6 +57,7 @@ API exemplo com implementação de Spring com arquitetura hexagonal, cobertura d
 
 ## Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogmrodrigues/)
+[![Gabu.me](https://img.shields.io/badge/Gabu-204742?style=for-the-badge&logo=rss&logoColor=white)](https://gabu.me/)
 
 
 <!--
