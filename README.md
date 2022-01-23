@@ -8,7 +8,6 @@ Sou apenas um java boy latino americano sem criptomoedas
 - 🌱 Aprimorando minhas skills devops na pós-graduação
 - 💬 Talvez eu possa te ajudar com Java, Spring, Kafka, Containers & Arquitetura
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: 
 
 ## Atividade 
 
