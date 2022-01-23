@@ -1,6 +1,14 @@
-# Oi, eu sou Gabu 👋
+# Oi oi, eu sou Gabu 👋
 
-## Overview 
+## Resumão
+
+- 🔭 Trabalhando na plataforma de troca de livros [Gabazar](https://github.com/gabazar)
+- 🌱 Aprimorando minhas skills devops na pós-graduação
+- 💬 Talvez eu possa te ajudar com Java, Spring, Kafka & Containers
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fun fact: 
+
+## Atividade 
 
 ![Gabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabumoreira&show_icons=true&theme=darcula)
 
