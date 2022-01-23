@@ -1,5 +1,7 @@
 # Oi oi, eu sou Gabu 👋
 
+![things_in_jars](https://user-images.githubusercontent.com/9539009/150700134-e7f56b3b-5919-4091-9993-df14c4d6ee53.jpeg)
+
 Sou apenas um java boy latino americano sem criptomoedas
 
 ## Resumão
