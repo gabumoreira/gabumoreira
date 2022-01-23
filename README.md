@@ -2,7 +2,7 @@
 
 ## Overview 
 
-![Gabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabumoreira&show_icons=true)
+![Gabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabumoreira&show_icons=true&theme=darcula)
 
 <!--
 **gabumoreira/gabumoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
