@@ -6,10 +6,11 @@ Sou apenas um java boy latino americano sem criptomoedas
 
 ## Resumão
 
-- 🔭 Trabalhando na plataforma de troca de livros [Gabazar](https://github.com/gabazar)
+- 🔭 Trabalhando para a Iguatemi365
 - 🌱 To focando em aprimorar minhas skills devops
+- 📚 Estudo/aplicação de microsserviços: [Gabazar](https://github.com/gabazar)
 - 💬 Me chama que eu ajudo com Java, Spring, Kafka, Containers & Arquitetura
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/o
 - ⚡ Fun fact: Se eu pudesse colocava gengibre em tudo
 
 ## Atividade 
