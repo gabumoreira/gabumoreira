@@ -11,7 +11,7 @@ Sou apenas um java boy latino americano sem criptomoedas
 - 📚 Estudo/aplicação de microsserviços: [Gabazar](https://github.com/gabazar)
 - 💬 Me chama que eu ajudo com Java, Spring, Kafka, Containers & Arquitetura
 - 😄 Pronomes: Ele/o
-- ⚡ Fun fact: Se eu pudesse colocava gengibre em tudo
+- ⚡ Fun fact: Sou esóterico de exatas, já fiz mapa astral de um servidor
 
 ## Atividade 
 
