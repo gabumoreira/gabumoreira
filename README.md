@@ -6,14 +6,14 @@ Sou apenas um java boy latino americano sem criptomoedas
 
 ## Resumão
 
-- 🔭 Trabalhando para a CPQi (Exadel)
+- 🔭 Trabalhando para o BTG Pactual 
 - 🌱 To focando em aprimorar minhas skills devops
 - 💬 Me chama que eu ajudo com Java, Spring, Quarkus, AWS, Kafka, Containers & Arquitetura
 - ⚡ Fun fact: Sou esóterico de exatas, já fiz mapa astral de um servidor
 
 ## Atividade 
 
-Oque eu tenho feito em 2022:
+Oque eu tenho feito em 2024:
 
 ![Gabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabumoreira&show_icons=true&theme=darcula)
 
