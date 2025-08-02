@@ -6,10 +6,9 @@ Sou apenas um java boy latino americano sem criptomoedas
 
 ## Resumão
 
-- 🔭 Trabalhando para o BTG Pactual 
-- 🌱 To focando em aprimorar minhas skills devops
-- 💬 Me chama que eu ajudo com Java, Spring, Quarkus, AWS, Kafka, Containers & Arquitetura
-- ⚡ Fun fact: Sou esóterico de exatas, já fiz mapa astral de um servidor
+- 🌱 dev que aprendeu devops e agora ta estudando machine learning
+- 💬 me chama que eu ajudo com Java, Spring, Quarkus, AWS, Kafka, Containers & Arquitetura
+- ⚡ fun fact: Sou esóterico de exatas, já fiz mapa astral de um servidor
 
 ## Atividade 
 
